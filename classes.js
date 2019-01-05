@@ -1,5 +1,3 @@
-//After typescript is converted to Javascript
-
 var Person = /** @class */ (function () {
     function Person() {
     }
