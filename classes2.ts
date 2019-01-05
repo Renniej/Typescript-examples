@@ -1,5 +1,5 @@
 
-class Person2 { //similar to how you define clsss in c++
+export class Person2 { //similar to how you define clsss in c++
 
     FirstName : string;
     LastName : string;
